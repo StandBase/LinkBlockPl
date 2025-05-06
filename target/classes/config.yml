@@ -1,0 +1,10 @@
+link-message:
+  # Правильный формат: просто ссылка без использования градиентов
+  - "https://www.spigotmc.org/resources/linkblockpl.124730/"
+  - "https://discord.gg/example"
+  - "https://t.me/example"
+
+  # Неправильный формат: использование градиентов в ссылках не работает
+  - "<gradient:#00ff00,#00ffff,#0000ff>https://www.spigotmc.org/resources/linkblockpl.124730/</gradient>"
+  - "<gradient:#00ff00,#00ffff,#0000ff>https://discord.gg/example</gradient>"
+  - "<gradient:#00ff00,#00ffff,#0000ff>https://t.me/example</gradient>"
